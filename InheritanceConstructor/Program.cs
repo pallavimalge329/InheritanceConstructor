@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace InheritanceConstructor
 {
-   // public void Manager(string employeeid, String employeename, int age, double weight, int managerid, string designation) : base(employeeid, employeename, age, weight)
 
   class Employee
     {
